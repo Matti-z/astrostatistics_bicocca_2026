@@ -59,6 +59,7 @@ There are many **other good resources** in astrostatistics, here is a partial li
 - ["Statistical Data Analysis"](https://global.oup.com/academic/product/statistical-data-analysis-9780198501558?cc=fr&lang=en&), Cowan. Oxford Science Publications, 1997.
 - ["Data Analysis: A Bayesian Tutorial"](https://global.oup.com/academic/product/data-analysis-9780198568322?cc=fr&lang=en&), Sivia and Skilling. Oxford Science Publications, 2006.
 - ["Bayesian Data Analysis",](http://www.stat.columbia.edu/~gelman/book/) Gelman, Carlin, Stern, Dunson, Vehtari, and Rubin. Chapman & Hall, 2013. Free!
+- ["Probability Theory: The Logic of Science](https://www.cambridge.org/core/books/probability-theory/9CA08E224FF30123304E6D8935CF1A99). Jaynes. Cambridge University Press, 201
 - ["Python Data Science Handbook",](https://jakevdp.github.io/PythonDataScienceHandbook/) VanderPlas. O'Reilly Media, 2016. Free!
 - ["Practical Statistics for Astronomers"](https://www.cambridge.org/core/books/practical-statistics-for-astronomers/CEB9D5F985F062BAD67E7219B96A4CD6), Wall and Jenkins. Cambridge University Press, 2003.
 - ["Bayesian Logical Data Analysis for the Physical Sciences",](https://www.cambridge.org/core/books/bayesian-logical-data-analysis-for-the-physical-sciences/09E9A95DAE275F5B005676C71B542598) Gregory. Cambridge University Press, 2005.
